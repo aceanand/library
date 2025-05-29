@@ -32,3 +32,14 @@ A RESTful API built with **Node.js** and **Express.js** that allows users to reg
 ```bash
 git clone https://github.com/aceanand/library.git
 cd library
+
+```bash
+npm install
+
+```bash
+PORT=3000
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=library 
+JWT_SECRET=your_jwt_secret

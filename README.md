@@ -19,7 +19,7 @@ A RESTful API built with **Node.js** and **Express.js** that allows users to reg
 ## 🛠️ Tech Stack
 
 - **Backend:** Node.js, Express.js  
-- **Database:** SQL (MySQL or PostgreSQL)  
+- **Database:** SQL 
 - **Auth:** JSON Web Tokens (JWT)  
 - **Other Tools:** bcryptjs, dotenv, nodemon  
 

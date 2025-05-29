@@ -1,7 +1,6 @@
 const db = require('../config/db');
 const jwt = require('jsonwebtoken');
-// const libphonenumber = require('google-libphonenumber').PhoneNumberUtil.getInstance();
-// const PNF = require('google-libphonenumber').PhoneNumberFormat;
+
 // Signup
 exports.signupWithMobile = async (req, res) => {
     try {

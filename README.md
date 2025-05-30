@@ -29,7 +29,6 @@ A RESTful API built with **Node.js** and **Express.js** that allows users to reg
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/aceanand/library.git
 cd library
 

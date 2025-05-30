@@ -37,6 +37,7 @@ cd library
 npm install
 
 ```bash
+```
 PORT=3000
 DB_HOST=localhost
 DB_USER=root

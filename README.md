@@ -70,5 +70,5 @@ Below are the downloadable resources associated with this project:
 
 ---
 
-For any questions or issues, feel free to raise an issue or contact the maintainer.  
+For any questions or issues, feel free to raise an issues. 9172873119  
   

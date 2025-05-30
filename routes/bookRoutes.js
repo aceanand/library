@@ -4,11 +4,11 @@ const {
 } = require('../controllers/bookController');
 
 const authMiddleware = require('../middlewares/authMiddleware');
-const apiTracker = require('../middlewares/apiTracker');
+
 const router = express.Router();
 
 // Protected routes
-router.post('/add-book', authMiddleware, apiTracker, addBook);
+router.post('/add-book', authMiddleware, addBook);
 
 router.get('/fetch-books', authMiddleware, getBooks);
 

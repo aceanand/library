@@ -36,8 +36,10 @@ cd library
 ```bash
 npm install
 ```
+Start the server
 
 ```bash
+  node server.js
 ```
 PORT=3000
 DB_HOST=localhost
